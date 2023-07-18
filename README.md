@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Olá, meu nome é Allan Diamante de Souza e sou desenvolvedor
+Olá, meu nome é Allan Diamante de Souza e sou desenvolvedor
 
 # 💻 Tech Stack:
 <div style="display: inline_block"><br>
@@ -24,7 +24,8 @@
 </div>
 
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=allandiamante&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br/>
 <a href="https://visitcount.itsvg.in">
