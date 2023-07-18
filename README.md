@@ -23,7 +23,10 @@
   
 </div>
 
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=allandiamante&label=Profile%20Views&color=1&icon=0&pretty=false" />
 </a>
