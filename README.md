@@ -1,5 +1,5 @@
-# 💫 Sobre mim:
-Olá, meu nome é Allan Diamante de Souza e sou recém-formado em Ciência da Computação. Atualmente, estou estudando desenvolvimento web e engenharia de dados para ingressar no mercado.
+# 💫 About me:
+Hello, my name is Allan Diamante de Souza, and I am a recent graduate in Computer Science.
 
 # 💻 Tecnologias:
 <div style="display: inline_block"><br>
