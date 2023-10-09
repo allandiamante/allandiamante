@@ -1,7 +1,7 @@
 # 💫 About me:
 Hello, my name is Allan Diamante de Souza, and I am a recent graduate in Computer Science.
 
-# 💻 Tecnologias:
+# 💻 Technologies:
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
