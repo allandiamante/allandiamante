@@ -1,5 +1,5 @@
 # 💫 About me:
-Hello, my name is Allan Diamante de Souza, and I am a recent graduate in Computer Science.
+Hello, my name is Allan Diamante de Souza, and I am a graduate in Computer Science.
 
 # 💻 Technologies:
 <div style="display: inline_block"><br>
